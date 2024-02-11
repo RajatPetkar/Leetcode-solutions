@@ -30,25 +30,22 @@
 // };
 
 var getPermutation = function(n, k) {
-    // Calculate factorial numbers
     let factorials = [1];
     for (let i = 1; i <= n; i++) {
         factorials[i] = factorials[i - 1] * i;
     }
     
-    // Generate digits array representing 1 to n
     let digits = [];
     for (let i = 1; i <= n; i++) {
         digits.push(i);
     }
     
-    // Calculate k-th permutation
     let ans = "";
-    k--; // Adjust k to be 0-based index
+    k--; 
     for (let i = n - 1; i >= 0; i--) {
         let idx = Math.floor(k / factorials[i]);
         ans += digits[idx];
-        digits.splice(idx, 1); // Remove used digit
+        digits.splice(idx, 1); 
         k %= factorials[i];
     }
     
