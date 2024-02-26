@@ -50,13 +50,13 @@ int largestRectangleArea(vector<int>& heights) {
 
     vector<int> prev = prevSmallerElement(heights, n);
 
-    int area = INT_MIN + 1; // Corrected initialization
+    int area = INT_MIN + 1;
 
     for (int i = 0; i < n; i++) {
         int l = heights[i];
-        int b = next[i] - prev[i] - 1; // Corrected calculation of base
+        int b = next[i] - prev[i] - 1;
         if (next[i] == -1) {
-            b = n - prev[i] - 1; // Adjusting base if next[i] is -1
+            b = n - prev[i] - 1;
         }
         int newArea = l * b;
         area = max(area, newArea);
