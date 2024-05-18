@@ -11,17 +11,21 @@
  */
 class Solution {
 public:
-    int needCoins(TreeNode* r, int& steps){
-        if(r==nullptr) return 0;
-        int c1=needCoins(r->left, steps);
-        int c2=needCoins(r->right, steps);
-        steps+=(abs(c1)+abs(c2));
-        return c1+c2+(r->val-1);
+    int calculateBalance(TreeNode* node, int& steps) {
+        if (node == nullptr) {
+            return 0;
+        }
+
+        int leftBalance = calculateBalance(node->left, steps);
+        int rightBalance = calculateBalance(node->right, steps);
+
+        steps += abs(leftBalance) + abs(rightBalance);
+        return node->val + leftBalance + rightBalance - 1;
     }
 
     int distributeCoins(TreeNode* root) {
-        int steps=0;
-        needCoins(root, steps);
+        int steps = 0;
+        calculateBalance(root, steps);
         return steps;
     }
 };
