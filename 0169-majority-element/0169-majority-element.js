@@ -1,20 +1,19 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
-var majorityElement = function(nums) {
-    let count = 0
-    let candidate
-    for (let i = 0; i < nums.length; i++) {
-        if (count === 0) {
-            candidate = nums[i]
-            count = 1
-        } else if (candidate === nums[i]) {
-            count++
-        } else {
-            count--
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int n = nums.size();
+        map<int,int> mapp;
+        
+        for(int i=0;i<n;i++){
+            mapp[nums[i]]++;
+        }
+        
+        for (auto it : mapp) {
+        if (it.second > (n / 2)) {
+            return it.first;
         }
     }
 
-   return candidate
+    return -1;
+    }
 };
