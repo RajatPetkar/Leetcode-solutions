@@ -30,8 +30,24 @@ public:
         return true;
     }
 
+    // bool isCircularSentence(string sentence) {
+    //     vector<string> words = splitter(sentence);
+    //     return isCircular(words);
+    // }
+    
     bool isCircularSentence(string sentence) {
-        vector<string> words = splitter(sentence);
-        return isCircular(words);
+        int n = sentence.size();
+        
+        if(sentence[0] != sentence[n-1]) return false;
+        
+        for(int i=0;i<n;i++){
+            if(sentence[i]==' '){
+                if(sentence[i-1] != sentence[i+1]){
+                    return false;
+                }
+            }
+        }
+        return true;
     }
+    
 };
