@@ -94,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
