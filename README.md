@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -164,4 +166,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
