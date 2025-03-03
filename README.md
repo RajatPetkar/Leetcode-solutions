@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Database
 |  |
 | ------- |
@@ -198,4 +200,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
