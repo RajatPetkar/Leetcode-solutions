@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
