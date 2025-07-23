@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1642-water-bottles](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1642-water-bottles) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Linked List
