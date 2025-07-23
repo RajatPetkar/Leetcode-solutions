@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
