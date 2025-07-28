@@ -25,7 +25,7 @@ public:
                     high++;
                 }
 
-                break; // no need to continue searching
+                break; 
             } else if (nums[mid] < target) {
                 left = mid + 1;
             } else {
