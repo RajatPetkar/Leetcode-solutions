@@ -13,6 +13,6 @@ public:
                 right = mid;
             }
         }
-        return nums[left];
+        return nums[right];
     }
 };
