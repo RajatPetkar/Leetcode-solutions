@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -239,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
