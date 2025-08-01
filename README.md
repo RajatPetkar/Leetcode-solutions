@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
