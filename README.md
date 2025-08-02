@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Brainteaser
