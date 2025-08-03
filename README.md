@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
