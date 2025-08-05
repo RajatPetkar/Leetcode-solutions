@@ -41,7 +41,7 @@ public:
 
         for (; i < s.size(); i++) {
             if (!isdigit(s[i])) break;
-            if(ans > 214748364 || (ans == 214748364 && s[i]- '0' >7)){
+            if(ans > (INT_MAX/10) || (ans == (INT_MAX/10) && s[i]- '0' >7)){
                 if (sign==1) return INT_MAX;
                 else return INT_MIN;
             }
