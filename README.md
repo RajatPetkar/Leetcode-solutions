@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0237-delete-node-in-a-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Tree
 |  |
 | ------- |
