@@ -13,7 +13,7 @@ public:
         return false;
 
     ListNode *pre = head;
-    ListNode *cur = head->next;
+    ListNode *cur = head;
 
     while (pre != cur) {
         if (!cur || !cur->next)
