@@ -10,21 +10,6 @@
  */
 class Solution {
 public:
-//Approach 1
-//     bool Palindrome(vector<int> arr){
-//         int size = arr.size();
-//         int s = 0;
-//         int e = size-1;
-        
-//         while(s<=e){
-//             if(arr[s]!=arr[e]){
-//                 return 0;
-//             }
-//             s++;
-//             e--;
-//         }
-//         return 1;
-//     }
     
     ListNode* getMid(ListNode* &head){
         ListNode* slow = head;
@@ -51,17 +36,7 @@ public:
 }
     
     bool isPalindrome(ListNode* head) {
-// Approach 1
-//         vector<int> arr;
-//         ListNode* temp = head;
-        
-//         while(temp!=NULL){
-//             arr.push_back(temp->val);
-//             temp=temp->next;
-//         }
-//         return Palindrome(arr);
 
-// Approach 2
        if(head->next == NULL){
            return true;
        } 
