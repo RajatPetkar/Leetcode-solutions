@@ -6,15 +6,18 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
-
-
 class Solution {
 public:
     void deleteNode(ListNode* node) {
-        node->val = node->next->val;
-        ListNode* temp = node->next;
-        node->next = node->next->next;
-        delete temp;
+        // while(node->next ! = nullptr){
+        //     ListNode* temp = new ListNode(node->next->val);
+        //     node->next->val = node->val;
+        //     node->val = temp;
+        // }
+        // delete temp;
+        ListNode* temp = node->next;     
+        node->val = temp->val;           
+        node->next = temp->next;         
+        delete temp; 
     }
 };
