@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0234-palindrome-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0326-power-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
