@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
 | ------- |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Shortest Path
 |  |
 | ------- |
