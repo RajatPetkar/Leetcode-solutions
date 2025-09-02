@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -437,4 +439,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
