@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2509-minimize-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
