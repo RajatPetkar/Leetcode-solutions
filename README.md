@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0342-power-of-four) |
@@ -460,4 +462,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0052-n-queens-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
