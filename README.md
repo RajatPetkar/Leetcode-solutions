@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -486,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
