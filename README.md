@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -316,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Brainteaser
 |  |
 | ------- |
@@ -500,4 +502,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
