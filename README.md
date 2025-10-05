@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -449,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## Memoization
@@ -507,4 +510,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2227-sum-of-subarray-ranges) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
