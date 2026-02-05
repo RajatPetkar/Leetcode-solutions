@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1364-tuple-with-same-product](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1813-maximum-erasure-value](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 ## Memoization
 |  |
