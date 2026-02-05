@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0012-integer-to-roman](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
