@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -310,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1448-maximum-69-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
