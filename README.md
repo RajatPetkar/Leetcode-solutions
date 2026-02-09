@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -305,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1448-maximum-69-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -352,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2429-design-a-food-rating-system](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
