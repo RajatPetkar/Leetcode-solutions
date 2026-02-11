@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0355-design-twitter](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0355-design-twitter](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0355-design-twitter](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0937-online-stock-span](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
