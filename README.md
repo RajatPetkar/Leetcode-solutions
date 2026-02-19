@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -481,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
