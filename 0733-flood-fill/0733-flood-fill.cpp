@@ -19,6 +19,7 @@ class Solution {
                                   int newColor) {
         // code here
         int iniColor = image[sr][sc];
+        if(iniColor==newColor) return image;
         vector<vector<int>> ans = image;
         vector<int> delRow = {-1,0,1,0};
         vector<int> delCol = {0,1,0,-1};
