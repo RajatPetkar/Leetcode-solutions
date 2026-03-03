@@ -1,16 +1,14 @@
 class Solution {
 public:
     bool dfsCheck(int node, vector<vector<int>>& graph, 
-                  vector<int>& vis, vector<int>& pathVis, 
-                  vector<int>& check) {
+                  vector<int>& vis, vector<int>& pathVis ) {
         
         vis[node] = 1;
         pathVis[node] = 1;
-        // check[node] = 0;  
 
         for (auto it : graph[node]) {
             if (!vis[it]) {
-                if (dfsCheck(it, graph, vis, pathVis, check))
+                if (dfsCheck(it, graph, vis, pathVis))
                     return true;
             }
             else if (pathVis[it]) {
@@ -19,7 +17,6 @@ public:
         }
 
         pathVis[node] = 0;
-        // check[node] = 1;  
         return false;
     }
 
@@ -28,18 +25,15 @@ public:
 
         vector<int> vis(n, 0);
         vector<int> pathVis(n, 0);
-        vector<int> check(n, 0);
 
         for (int i = 0; i < n; i++) {
             if (!vis[i]) {
-                dfsCheck(i, graph, vis, pathVis, check);
+                dfsCheck(i, graph, vis, pathVis);
             }
         }
 
         vector<int> ans;
         for (int i = 0; i < n; i++) {
-            // if (check[i] == 1)
-            //     ans.push_back(i);
             if(!pathVis[i]){
                 ans.push_back(i);
             }
