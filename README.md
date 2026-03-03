@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2360-longest-cycle-in-a-graph](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -642,9 +644,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [2360-longest-cycle-in-a-graph](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
