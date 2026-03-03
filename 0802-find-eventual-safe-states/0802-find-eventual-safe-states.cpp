@@ -6,7 +6,7 @@ public:
         
         vis[node] = 1;
         pathVis[node] = 1;
-        check[node] = 0;  
+        // check[node] = 0;  
 
         for (auto it : graph[node]) {
             if (!vis[it]) {
@@ -19,7 +19,7 @@ public:
         }
 
         pathVis[node] = 0;
-        check[node] = 1;  
+        // check[node] = 1;  
         return false;
     }
 
@@ -38,8 +38,11 @@ public:
 
         vector<int> ans;
         for (int i = 0; i < n; i++) {
-            if (check[i] == 1)
+            // if (check[i] == 1)
+            //     ans.push_back(i);
+            if(!pathVis[i]){
                 ans.push_back(i);
+            }
         }
 
         return ans;
