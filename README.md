@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2429-design-a-food-rating-system](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
+| [2498-frog-jump-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2498-frog-jump-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2509-minimize-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
