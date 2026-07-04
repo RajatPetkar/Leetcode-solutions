@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2792-neighboring-bitwise-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
@@ -439,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Divide and Conquer
 |  |
 | ------- |
