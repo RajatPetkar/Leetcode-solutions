@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0821-shortest-distance-to-a-character](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0846-hand-of-straights](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0812-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0952-word-subsets](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -328,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0821-shortest-distance-to-a-character](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
