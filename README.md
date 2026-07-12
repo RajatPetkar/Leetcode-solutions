@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0992-subarrays-with-k-different-integers](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1020-number-of-enclaves](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -392,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0802-find-eventual-safe-states](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph
@@ -421,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0980-unique-paths-iii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0980-unique-paths-iii) |
 | [1020-number-of-enclaves](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
