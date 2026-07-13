@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1291-sequential-digits) |
 ## Number Theory
 |  |
 | ------- |
