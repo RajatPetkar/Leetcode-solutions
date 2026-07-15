@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Union Find
 |  |
 | ------- |
