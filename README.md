@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Database
 |  |
 | ------- |
@@ -493,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -632,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union Find
 |  |
 | ------- |
