@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1642-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2032-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2346-largest-3-same-digit-number-in-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3396-valid-word) |
@@ -369,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2498-frog-jump-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2509-minimize-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2509-minimize-xor) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
