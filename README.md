@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2429-design-a-food-rating-system](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2429-design-a-food-rating-system](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2429-design-a-food-rating-system) |
 | [2465-shifting-letters-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3379-score-of-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3396-valid-word) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-construct-k-palindrome-strings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
@@ -372,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2498-frog-jump-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2509-minimize-xor](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
