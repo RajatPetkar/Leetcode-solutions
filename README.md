@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/1448-maximum-69-number) |
@@ -475,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -616,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -636,6 +640,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/0909-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/RajatPetkar/Leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Backtracking
